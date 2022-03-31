@@ -1,0 +1,24 @@
+{
+  "name": "ts-oop",
+  "version": "1.0.0",
+  "description": "Learning typescript with object oriented programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jagg-c/ts-oop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jagg-c/ts-oop/issues"
+  },
+  "homepage": "https://github.com/jagg-c/ts-oop#readme",
+  "devDependencies": {
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}
