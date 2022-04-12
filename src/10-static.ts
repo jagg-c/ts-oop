@@ -5,7 +5,7 @@ export class MyMath {
   static readonly PI = 3.14;
 
   static max(...number: number[]) {
-    return number.reduce((max, item) => max >= item ? max: item, 0)
+    return number.reduce((max, item) => (max >= item ? max : item), 0);
   }
 }
 
